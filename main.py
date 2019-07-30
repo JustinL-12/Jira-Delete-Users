@@ -3,8 +3,8 @@ import Config
 import json
 import time
 
-instance_url = 'team.uic.edu' # url of the Jira Server instance
-user_search = 'ПОЛУЧИТЬ'      # the string to search users for
+instance_url = ' ' # url of the Jira Server instance
+user_search = ' '      # the string to search users for
 del_count = 1000              # number of users to delete, max 1000
 wait_time = 5                 # time to wait between delete requests
 
